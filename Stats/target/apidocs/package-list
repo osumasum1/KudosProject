@@ -1,0 +1,6 @@
+stats
+stats.core
+stats.db
+stats.influx
+stats.rabbit
+stats.resources

@@ -1,0 +1,11 @@
+D:\Osmar\Master Ing Software\Base de datos\4\Stats\src\main\java\stats\core\User.java
+D:\Osmar\Master Ing Software\Base de datos\4\Stats\src\main\java\stats\db\MongoManaged.java
+D:\Osmar\Master Ing Software\Base de datos\4\Stats\src\main\java\stats\db\MongoService.java
+D:\Osmar\Master Ing Software\Base de datos\4\Stats\src\main\java\stats\influx\InfluxDataBase.java
+D:\Osmar\Master Ing Software\Base de datos\4\Stats\src\main\java\stats\influx\Log.java
+D:\Osmar\Master Ing Software\Base de datos\4\Stats\src\main\java\stats\db\UserDAO.java
+D:\Osmar\Master Ing Software\Base de datos\4\Stats\src\main\java\stats\rabbit\CalculateKudos.java
+D:\Osmar\Master Ing Software\Base de datos\4\Stats\src\main\java\stats\resources\StatsResource.java
+D:\Osmar\Master Ing Software\Base de datos\4\Stats\src\main\java\stats\StatsApplication.java
+D:\Osmar\Master Ing Software\Base de datos\4\Stats\src\main\java\stats\StatsConfiguration.java
+D:\Osmar\Master Ing Software\Base de datos\4\Stats\src\main\java\stats\rabbit\Send.java
